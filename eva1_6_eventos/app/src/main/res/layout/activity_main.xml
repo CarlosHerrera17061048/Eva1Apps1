@@ -22,14 +22,14 @@
         android:text="POR INTERFAZ LISTENER" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/btnAnonimo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Por Clase Anonima" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/btnClase"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="POR CLASE" />
 </LinearLayout>
